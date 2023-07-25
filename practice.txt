@@ -1,0 +1,217 @@
+
+5.2 
+
+ 
+
+ 
+
+ 
+
+The requesting entity should be in compliance with the Intellectual Property provisions as defined in the agreement with UIDAI. 
+
+Yes 
+
+The Intellectual Property provisions was covered in the agreement with NSDL and USFB which were in the accordance with UIDAI 
+
+ 
+
+Not Applicable 
+
+ 
+
+ 
+
+ |
+
+5.3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The requesting entity shall mask Aadhaar numbers collected through physical forms or photocopies of Aadhaar letters by redacting the first 8 digits of the Aadhaar number before storing the physical copies. 
+
+        Yes 
+
+It was noted that Aadhaar numbers are masked for in-scope application. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Screenshot of Aadhar number masked. 
+
+Total KYC API – Used for masking the aadhar number 
+
+ 
+
+ 
+|
+5.4 
+
+ 
+
+ 
+
+ 
+
+The requesting entity should comply with the Aadhaar act ,2016 
+
+ 
+
+ 
+
+ 
+
+Yes 
+
+It was noted that Requesting entity complies with the Aadhaar Act, 2016’s relevant controls in-line with requesting entity compliance checklist v3.0 
+
+ 
+
+ 
+
+Not Applicable 
+
+ 
+
+ 
+
+ |
+
+5.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The requesting entity should comply with Aadhaar (Authentication and Offline Verification) Regulations, 2021. 
+
+ 
+
+Yes 
+
+It was noted that requesting entity complies with Aadhaar (Authentication) Regulation, 2021’s relevant controls in-line with requesting entity 
+
+compliance checklist v3.0 
+
+ 
+
+Not Applicable 
+
+ 
+
+ 
+
+ 
+
+ 
+|
+5.6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The requesting entity should comply with Aadhaar (Data Security) regulations, 2016. 
+
+ 
+
+ 
+
+Yes 
+
+It was noted that requesting entity complies with the Aadhaar (Data Security) Regulations, 2016’srelevant controls in-line with requesting entity 
+
+compliance checklist v3.0 
+
+ 
+
+Not Applicable 
+
+ 
+
+ 
+
+ 
+
+ 
+|
+5.7 
+
+ 
+
+ 
+
+The requesting entity should comply with Aadhaar (Sharing of Information) regulations, 2016. 
+
+ 
+
+Yes 
+
+It was noted that requesting entity complies with the Aadhaar (Sharing of information) Regulations, 2016’s relevant controls in-line with requesting entity compliance checklist v3.0. 
+
+Not Applicable 
+
+ 
+
+ 
+
+ 
+|
+5.8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The requesting entity should comply with UIDAI Information Security policy in respect to Entity available in the compendium on UIDAI official website. 
+
+ 
+
+Yes 
+
+It was noted that Requesting entity’s (USFB)Information System Security Policy comply with relevant UIDAI Information Security policy requirements. 
+
+ 
+
+ 
+
+ 
+
+USFB IS Policy 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
